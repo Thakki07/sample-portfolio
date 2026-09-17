@@ -11,7 +11,7 @@ function Footer() {
                     <p>I am a front-end developer from Mangalore, Karnataka, with experience in building and delivering several projects.</p>
             </div>
             <div className="footer-top-right">
-                <div className="footer-subscribe"> <a href="https://www.instagram.com/thakki_07/" style={{textDecoration:'none',color:'white'}}><p>Follow Me On</p></a><img src= {instagram_icon} alt="" /> </div>
+                <div className="footer-subscribe"> <a href="https://www.instagram.com/thakki._/" style={{textDecoration:'none',color:'white'}}><p>Follow Me On</p></a><img src= {instagram_icon} alt="" /> </div>
             </div>
         </div>
         <hr />
